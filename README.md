@@ -17,4 +17,9 @@ Some things a client may decide to do with these findings:
 For example 'Blog', 'About us', 'Upcoming courses' pages, got the least amount of views. So if there's any important information on those pages, it won't be seen by many customers.
 2. If the client wants to optimise their website, they can look at the best and worst performing pages and decide whether they want to remove some pages that don't perform well and focus their efforts on those that do.
 3. If the client wants to direct the customer to a certain page (e.g.'Checkout'), they can observe how long it takes a customer to get to the Checkout page. Maybe the website is not intuitive enough, so the client may need to spend some time on improving their UX.
-4. 
+
+
+### Tech stack used:
+Jupyter notebooks
+Pandas
+Numpy
